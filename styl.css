@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #FFEDE8;
+}
+.div__p{
+    margin-left: 0%;
+}
+.div__te{
+    margin-left: 3%;
+}
+.main__article{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    flex-direction: column;
+    margin-left: 0%;
+}
+.tecst{
+   display: flex;
+   justify-content: space-between; 
+   margin-bottom: 50px;
+   margin-right: 0%;
+   flex-direction: column;
+}
+.article__charm{
+ display: flex;
+ justify-content: space-between; 
+ margin-left: 0%;
+ flex-direction: column;
+ margin-bottom: 50px;
+}
+.katalog{
+    display: flex;
+    justify-content:space-between;
+}
+.katal{
+    display: flex;
+    justify-content:space-between;
+}
+.chtorm{
+    display: flex;
+    justify-content: space-between; 
+    flex-direction: column;
+    margin-right: 0%;
+    margin-bottom: 50px;
+}
+.div3{
+    display: flex;
+    justify-content:space-between;
+}
+.elis{
+   display: flex;
+   justify-content: space-between; 
+   margin-left: 0%;
+   flex-direction: column;
+   margin-bottom: 50px;
+}
+.hydo{
+    display: flex;
+    justify-content: space-between; 
+    flex-direction: column;
+    margin-right: 0%;
+    margin-bottom: 50px;
+}
+.div4{
+    display: flex;
+    justify-content:space-between;
+}
+.leto{
+   display: flex;
+   justify-content: space-between; 
+   margin-left: 0%;
+   flex-direction: column;
+   margin-bottom: 50px;
+}
+.fantazia{
+    display: flex;
+    justify-content: space-between; 
+    flex-direction: column;
+    margin-right: 0%;
+    margin-bottom: 50px;
+}
+.div5{
+    display: flex;
+    justify-content:space-between;
+}
+.solneh{
+   display: flex;
+   justify-content: space-between; 
+   margin-left: 0%;
+   flex-direction: column;
+   margin-bottom: 50px; 
+}
+.azyr{
+   display: flex;
+    justify-content: space-between; 
+    flex-direction: column;
+    margin-right: 0%;
+    margin-bottom: 50px;  
+}
+a{
+    background-color: #FFC1C1;
+    display: inline-block;
+    color:#466723;
+    text-decoration: none;
+    padding: 7px 7px;
+    border-radius: 45px;
+    margin-top: 1%;
+    font-size: 62px;
+}
+.knop{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
